@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, developed as part of coursework at the National University of Modern Languages, Islamabad, performs exploratory data analysis (EDA) on a retail sales dataset to uncover insights into transaction patterns. Using Python, Pandas, Matplotlib, Seaborn, and Statistics, the project analyzes sales metrics such as product categories, prices, and quantities, demonstrating skills in data preprocessing, statistical analysis, and visualization for data science applications.
+This project performs exploratory data analysis (EDA) on a retail sales dataset to uncover insights into transaction patterns. Using Python, Pandas, Matplotlib, Seaborn, and Statistics, the project analyzes sales metrics such as product categories, prices, and quantities, demonstrating skills in data preprocessing, statistical analysis, and visualization for data science applications.
 
 ## Dataset
 
