@@ -73,7 +73,6 @@ retail-sales-data-analysis/
 ├── data/
 │   └── sales_data.csv.xls   # Retail sales dataset
 ├── Retail_Sales_Data_Analysis.ipynb  # Main notebook
-├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
 ├── LICENSE                 # MIT License
 ```
@@ -103,4 +102,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions, contact [nayyabm16@gmail.com] or open an issue on GitHub.
+For questions, contact nayyabm16@gmail.com or open an issue on GitHub.
